@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="26.009">
+<testcase classname="Login features" name="Test Login with Different Data" time="13.832">
+<system-out><![CDATA[Given I am able to naviagte onto the login page.............................passed
+When I Enter the username as "Admin"........................................passed
+And I Enter the Password as "admin123"......................................passed
+And I Click on the Login button.............................................passed
+Then I should see the username as "Welcome Paul"............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login features" name="Test Login with Different Data 2" time="11.897">
+<system-out><![CDATA[Given I am able to naviagte onto the login page.............................passed
+When I Enter the username as "Admin"........................................passed
+And I Enter the Password as "admin123"......................................passed
+And I Click on the Login button.............................................passed
+Then I should see the username as "Welcome Paul"............................passed
+]]></system-out>
+</testcase>
+</testsuite>
